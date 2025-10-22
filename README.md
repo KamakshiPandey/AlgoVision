@@ -14,7 +14,7 @@ It provides a hands-on way to understand the internal working of algorithms like
   - Merge Sort  
   - Quick Sort  
   - Insertion Sort  
-- 📱 **Responsive Design** – Works seamlessly across desktop and mobile devices.  
+- 📱 **Responsive Design** – Works seamlessly across desktops.  
 - 🧠 **Educational Focus** – Visual step-by-step transitions to reinforce algorithmic concepts.  
 
 ---
