@@ -1,7 +1,7 @@
 # ⚙️ AlgoVision — Sorting Visualizer
 
 **AlgoVision** is an interactive web application built using **React.js**, **HTML**, **CSS**, and **JavaScript** to visualize how popular sorting algorithms work — step by step, in real-time.  
-It provides a hands-on way to understand the internal working of algorithms like **Bubble Sort**, **Merge Sort**, **Quick Sort**, and **Insertion Sort** through smooth animations and customizable controls.
+It provides a hands-on way to understand the internal working of algorithms like **Bubble Sort**, **Merge Sort**, **Quick Sort**, **Selection Sort**, **Heap Sort**, **Radix Sort** and **Insertion Sort** through smooth animations and customizable controls.
 
 ---
 
@@ -13,7 +13,10 @@ It provides a hands-on way to understand the internal working of algorithms like
   - Bubble Sort  
   - Merge Sort  
   - Quick Sort  
-  - Insertion Sort  
+  - Insertion Sort
+  - Radix Sort
+  - Selection Sort
+  - Heap sort 
 - 📱 **Responsive Design** – Works seamlessly across desktops.  
 - 🧠 **Educational Focus** – Visual step-by-step transitions to reinforce algorithmic concepts.  
 
